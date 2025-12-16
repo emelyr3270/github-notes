@@ -9,5 +9,5 @@
 ### Repo (file)
 <p> Repo just stands for repository where you add and have multiple files with it. 
   
-### Commit (change)
+### Commit (change and save)
 <p> Commits are changes you make to a file and those commmits allow you to browse history and each one of those commits have a unique identifier for it </p>
